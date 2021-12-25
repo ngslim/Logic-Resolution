@@ -1,9 +1,12 @@
 # Logic-Resolution
 
-Logic Resolution program with input file name "input.txt" and output file name "output.txt". Download those test cases and rename to "input.txt" and run py file to test.
-Logic statements in input files contain OR only. First row is alpha, second row is the number of statements in KB and the following lines are the statements in KB.
-
-*Example input:*
+Logic Resolution program with input file name "input.txt" and output file name "output.txt".</br>
+Download those test cases and rename to "input.txt" and run py file to test.</br>
+Logic statements in input files contain OR only.</br>
+First row is alpha.</br>
+Second row is the number of statements in KB.</br>
+The following lines are the statements in KB.</br>
+*Example input:*</br>
 ```
 -A OR F
 4
