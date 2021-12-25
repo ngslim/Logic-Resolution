@@ -37,3 +37,4 @@ A OR -B
 {}
 YES
 ```
+The output is written in the following format: the number of statements resulted by resolving the statements in KB and those statements, then the program will add those statements to the KB and repeat the step until no new statement can be generated (result in NO) or there are opposite literals in 1 statement (result in YES).
