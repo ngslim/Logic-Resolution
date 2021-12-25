@@ -9,4 +9,4 @@ Logic statements in input files contain OR only. First row is alpha, second row 
 -A OR B OR C
 -B OR D OR F
 -A OR -D OR F
--C OR F```
+-C OR F
