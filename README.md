@@ -15,3 +15,25 @@ The following lines are the statements in KB.</br>
 -A OR -D OR F
 -C OR F
 ```
+*Another example input:*</br>
+```
+-A
+4
+-A OR B
+B OR -C
+A OR -B OR C
+-B
+```
+*The output for the latter input:*
+```
+3
+-A
+B
+-C
+4
+-B OR C
+A OR C
+A OR -B
+{}
+YES
+```
